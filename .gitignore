@@ -4,6 +4,7 @@
 *.tar.gz
 *.zip
 *.gz
+*.tar.gz
 
 # Colab & Drive junk
 /content/
@@ -21,4 +22,5 @@ __pycache__/
 # Other
 .DS_Store
 Thumbs.db
+
 .ipynb_checkpoints/
