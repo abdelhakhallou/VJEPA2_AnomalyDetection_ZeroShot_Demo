@@ -5,6 +5,9 @@
 *.zip
 *.gz
 *.tar.gz
+*.npy
+results/
+figures/
 
 # Colab & Drive junk
 /content/
@@ -24,3 +27,4 @@ __pycache__/
 Thumbs.db
 
 .ipynb_checkpoints/
+
