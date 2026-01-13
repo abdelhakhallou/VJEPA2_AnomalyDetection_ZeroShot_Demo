@@ -1,7 +1,7 @@
 # V-JEPA 2 Zero-Shot Video Anomaly Detection
 
 **AISHII** – AI-Powered Imaging Solutions  
-https://aishii.tech | @SecretsMysteres
+https://aishii.tech 
 
 ## Description
 Détection d'anomalies vidéo **zero-shot** avec V-JEPA 2 (Meta FAIR, 2025) :  
