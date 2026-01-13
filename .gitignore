@@ -1,0 +1,24 @@
+# Ignore big files and temp stuff
+*.pth
+*.npy
+*.tar.gz
+*.zip
+*.gz
+
+# Colab & Drive junk
+/content/
+/drive/
+/MyDrive/
+/tmp/
+/sample_data/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
